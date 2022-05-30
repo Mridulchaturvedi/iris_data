@@ -65,6 +65,8 @@ sns.heatmap(features.corr())
 - There is outliers and overlapping on Species versicolor and virginica. 
 
 """
+cool
+
 
 
 
